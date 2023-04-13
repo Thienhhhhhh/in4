@@ -1,0 +1,35 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color:darkcyan;
+  background-color: blanchedalmond;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 20px 0;
+}
+img {
+display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px #888;
+}
+nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+p {
+  font-size: 22px;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 18px 0;
+}
+h2 {
+  font-size: 30px;
+}
